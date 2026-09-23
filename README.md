@@ -92,13 +92,3 @@ Desarrollada con:
 - GitHub Pages
 
 ---
-
-## 📁 Estructura
-
-```text
-elprofemauro.github.io/
-│
-├── index.html      # Página principal
-├── style.css       # Diseño y estilos
-├── script.js       # Interactividad
-└── README.md       # Documentación
